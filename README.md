@@ -58,3 +58,5 @@ V časech Windows 95/98 od [Michala Mareše](http://www.neo.cz/~tomas/csklavesni
 [Chybělo mi i pro Linux](http://www.abclinuxu.cz/blog/bohous/2005/11/cesky-amater-klavesove-rozlozeni). Jednu vytvořil [Yeti](http://trific.ath.cx/resources/czech-x-keyboard/), jednu jsem si taky v roce 2005 [připravil sám](http://www.abclinuxu.cz/blog/bohous/2005/12/klavesnice-cesky-amater-hotovo). Obojí jsou už asi ztracené.
 
 V roce 2012 jsem přešel na Mac a nějak rezignoval a od té doby přepínám mezi EN/CZ. Občas je to dost na palici. V červenci 2018 jsem narazil na nástroj [Ukulele](http://scripts.sil.org/ukelele) a za večer znovu oživil Českého amatéra na Macu.
+
+Btw: http://www.ceskaklavesnice.cz/ - web o české počítačové klávesnici.
