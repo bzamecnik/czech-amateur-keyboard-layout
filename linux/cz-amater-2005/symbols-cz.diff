@@ -1,0 +1,46 @@
+109,153d108
+< 
+< // bohous - layout similar to "Czech Amateur", for programmers
+< xkb_symbols "bohous" {
+<     include "cz(qwerty)"
+< 
+<     name[Group1]= "Czechia - qwerty, bohous";
+< 
+<     key <PAUS> { [ Multi_key ] };
+< 
+<     key <TLDE>	{ [      grave,   asciitilde,  dead_abovering, dead_diaraesis]	};
+< 
+<     key <AE09>	{ [    iacute,          9,    parenleft, dead_acute ]	};
+<     key <AE10>	{ [    eacute,          0,   parenright, dead_doubleacute ] };
+<     key <AE11>	{ [     minus, underscore,        equal, percent ] };
+<     key <AE12>	{ [dead_acute, dead_caron,        equal, plus ]	};
+< 
+<     key <AD11>	{ [ bracketleft, braceleft,   division, NoSymbol ]	};
+<     key <AD12>	{ [bracketright, braceright,  multiply, NoSymbol ]	};
+< 
+<     key <AC10>	{ [ semicolon,      colon,     NoSymbol, NoSymbol ]	};
+<     key <AC11>	{ [apostrophe,   quotedbl,      section, ssharp ]	};
+<     key <BKSL>	{ [backslash,        bar, dead_diaeresis, apostrophe  ]	};
+< 
+<     key <LSGT>	{ [ asterisk,        bar,        slash,     NoSymbol ]	};
+< 
+<     key <AB08>	{ [     comma,      less,      question,     NoSymbol ]	};
+<     key <AB09>	{ [    period,   greater,         colon,     NoSymbol ]	};
+<     key <AB10>	{ [     slash,  question,         minus,   underscore ]	};
+< 
+<     key <KP7> { [ 7 ] };
+<     key <KP8> { [ 8 ] };
+<     key <KP9> { [ 9 ] };
+<   
+<     key <KP4> { [ 4 ] };
+<     key <KP5> { [ 5 ] };
+<     key <KP6> { [ 6 ] };
+<   
+<     key <KP1> { [ 1 ] };
+<     key <KP2> { [ 2 ] };
+<     key <KP3> { [ 3 ] };
+<     key <KPEN> { type="ONE_LEVEL", [ Return ] };
+<   
+<     key <KP0> { [ 0 ] };
+<     key <KPDL> { [ period ] };
+< };

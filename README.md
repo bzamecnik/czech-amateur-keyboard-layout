@@ -33,11 +33,18 @@ Features:
 
 ## Windows
 
+- 2010
 - instalátor + definice: [czech-amateur-keyboard-layout_windows7_2010-08-22.zip](windows/czech-amateur-keyboard-layout_windows7_2010-08-22.zip)
 - vytvořeno pomocí nástroje [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
 - fungovalo na Windows 7, mohlo by na XP, 2003, Vista
 - Windows 8 a 10 - netestováno
   - TODO: vyzkoušet http://www.klm32.com/
+
+## Linux (X)
+
+- 2005
+- [dokumentace](linux/cz-amater-2005/README.md)
+- [kód je ve formě patchů pro konfiguráky X](linux/cz-amater-2005/)
 
 ## Licence
 

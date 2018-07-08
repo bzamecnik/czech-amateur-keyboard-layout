@@ -1,0 +1,15 @@
+12,13c12
+< #<dead_acute> <dead_acute>		: "´"	acute
+< <dead_acute> <dead_acute>		: "="	equal
+---
+> <dead_acute> <dead_acute>		: "´"	acute
+936,937c935
+< #<dead_caron> <U>	: "Ǔ" U01D3 # LATIN CAPITAL LETTER U WITH CARON
+< <dead_caron> <U>	: "Ů"
+---
+> <dead_caron> <U>	: "Ǔ" U01D3 # LATIN CAPITAL LETTER U WITH CARON
+939,940c937
+< #<dead_caron> <u>	: "ǔ" U01D4 # LATIN SMALL LETTER U WITH CARON
+< <dead_caron> <u>	: "ů"
+---
+> <dead_caron> <u>	: "ǔ" U01D4 # LATIN SMALL LETTER U WITH CARON
