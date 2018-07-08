@@ -31,7 +31,15 @@ Features:
 ![OPTION](mac/docs/czech_amateur_option.png)
 ![OPTION + SHIFT](mac/docs/czech_amateur_option_shift.png)
 
-### Licence
+## Windows
+
+- instalátor + definice: [czech-amateur-keyboard-layout_windows7_2010-08-22.zip](windows/czech-amateur-keyboard-layout_windows7_2010-08-22.zip)
+- vytvořeno pomocí nástroje [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
+- fungovalo na Windows 7, mohlo by na XP, 2003, Vista
+- Windows 8 a 10 - netestováno
+  - TODO: vyzkoušet http://www.klm32.com/
+
+## Licence
 
 - Autor: Bohumír Zámečník
 - Licence: MIT
