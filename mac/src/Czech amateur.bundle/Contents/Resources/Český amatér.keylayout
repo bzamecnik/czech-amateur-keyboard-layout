@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.7.195 on 2018-07-07 at 01:29 (SELČ)-->
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-07-09 at 00:42 (SELČ)-->
 <keyboard group="126" id="-19613" name="Český amatér" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
