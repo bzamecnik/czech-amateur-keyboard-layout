@@ -5,7 +5,7 @@ běžné psaní? Rezignujete a pisete bez hacku a carek? Už zase stačí jen je
 
 ## Mac
 
-- instalátor: [Czech_amateur_OSX.dmg](mac/installer/Czech_amateur_OSX.dmg)
+- instalátor: [Czech_amateur_OSX.dmg](mac/installer/Czech_amateur_OSX_0.2.dmg)
 - zdroj (bundle): [Czech amateur.bundle](mac/installer/src/)
   - XML, lze editovat v [Ukulele](http://scripts.sil.org/ukelele)
 - [dokumentace (obrázky, PDF)](mac/docs/)
